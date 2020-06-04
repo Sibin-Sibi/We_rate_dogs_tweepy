@@ -1,4 +1,5 @@
-# WeRateDogs Data Wrangling Project
+# WeRateDogs Data Wrangling Project:
+Tools used: Python, NumPy, pandas, Matplotlib, Tweepy, MS Word, Excel.
 
 ####  Introduction
 
